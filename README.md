@@ -11,3 +11,6 @@ A native implementation of Olygraph's geometry walker to transfer vertex positio
 import geometryWalker
 geometryWalker.create()
 ``` 
+
+### Blender version
+https://github.com/revoconner/Blender-Meshwalker 
